@@ -1,0 +1,9 @@
+rexponsive_install_only_utf8 = REXponsive funktioniert nur wenn die der Zeichensatz utf-8 in REDAXO verwendet wird.
+rexponsive_install_seo42_version_problem = SEO42 muss mindestens Version {0} haben und installiert sein.
+rexponsive_install_be_utilities_version_problem = Backend Utilities muss mindestens Version {0} haben und installiert sein.
+rexponsive_install_mform_version_problem = MForm muss mindestens Version {0} haben und installiert sein.
+
+rexponsive_install_checkphpversion = Die PHP Version reicht nicht aus. Es wird mindestens Version 5.3 gebraucht. Im Moment ist Version {0} installiert.
+rexponsive_install_redaxo_version_problem = Die REDAXO Version reicht nicht aus. Es wird mindestens Version {0} gebraucht.
+
+list_message = {0} bis {1} von {2} Einträge
